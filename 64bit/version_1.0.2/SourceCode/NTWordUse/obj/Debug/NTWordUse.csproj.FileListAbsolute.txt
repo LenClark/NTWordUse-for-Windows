@@ -1,0 +1,10 @@
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\bin\Debug\NTWordUse.exe.config
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\bin\Debug\NTWordUse.exe
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\bin\Debug\NTWordUse.pdb
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\Debug\NTWordUse.csproj.AssemblyReference.cache
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\Debug\NTWordUse.frmMain.resources
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\Debug\NTWordUse.Properties.Resources.resources
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\Debug\NTWordUse.csproj.GenerateResource.cache
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\Debug\NTWordUse.csproj.CoreCompileInputs.cache
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\Debug\NTWordUse.exe
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\Debug\NTWordUse.pdb

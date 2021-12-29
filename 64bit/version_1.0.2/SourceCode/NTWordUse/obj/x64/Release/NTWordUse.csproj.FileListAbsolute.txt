@@ -1,0 +1,16 @@
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\bin\x64\Release\NTWordUse.exe.config
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\bin\x64\Release\NTWordUse.exe
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\bin\x64\Release\NTWordUse.pdb
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\x64\Release\NTWordUse.frmAbout.resources
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\x64\Release\NTWordUse.frmChapter.resources
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\x64\Release\NTWordUse.frmHelp.resources
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\x64\Release\NTWordUse.frmMain.resources
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\x64\Release\NTWordUse.frmOptions.resources
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\x64\Release\NTWordUse.frmProgress.resources
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\x64\Release\NTWordUse.frmReference.resources
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\x64\Release\NTWordUse.frmUsage.resources
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\x64\Release\NTWordUse.Properties.Resources.resources
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\x64\Release\NTWordUse.csproj.GenerateResource.cache
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\x64\Release\NTWordUse.csproj.CoreCompileInputs.cache
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\x64\Release\NTWordUse.exe
+E:\VS_Projects\2019\c#\2021\Greek\NTWordUse\NTWordUse\obj\x64\Release\NTWordUse.pdb
